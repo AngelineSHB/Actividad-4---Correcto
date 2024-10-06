@@ -1,0 +1,2 @@
+7323501,Secundaria Completa,Java 1
+00070,Secundaria Completa,Net 1
